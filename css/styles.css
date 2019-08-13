@@ -1,0 +1,40 @@
+/* body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0px auto;
+    width: 800px;
+    background-color: #ded8d7;
+} */
+header{
+    text-align: center;
+}
+.wrapper {
+    width: 100%;
+}
+span{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+.travel{
+    
+    float: right;
+    width: 50%;
+}
+.activities{
+ 
+    float: left;
+    width: 50%;
+}
+.contact{
+    clear: both;
+}
+h5{
+    font-size: 30px;
+}
+footer{
+
+}
